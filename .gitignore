@@ -1,0 +1,8 @@
+.venv
+venv
+.venv/
+venv/
+*.pkl
+*.csv 
+.pkl
+.csv
